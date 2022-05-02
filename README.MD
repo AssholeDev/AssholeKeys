@@ -16,7 +16,7 @@ Because I still feel like an asshole, this is a complete ripoff of the original 
 
 Download and extract this repo. Then go to to the enclosure/STL folder. Go to [Jawstec](https://app.jawstec.com/3d-print-quote/) and upload the STL files. Select SLS nylon PA12 as your material and set the nut Qty to 2. Place your order and wait a couple of weeks.
 
-![JawsTec order](images/jawstec.png)
+![JawsTec order](images/JawsTec.png)
 
 ## To get the PCB
 Go to [JLCPCB](https://cart.jlcpcb.com/quote) and upload the AssholeKeys-JLCPCB.zip file located in the gerbers folder. Choose your PCB color and quantity and leave all other options at their default settings. Place your order and wait for a couple of weeks.
